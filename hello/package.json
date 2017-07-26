@@ -1,0 +1,26 @@
+{
+  "name": "learnexpressdemo",
+  "version": "1.0.0",
+  "description": "express示例",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venux/LearnExpressDemo.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "venux",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/venux/LearnExpressDemo/issues"
+  },
+  "homepage": "https://github.com/venux/LearnExpressDemo#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
